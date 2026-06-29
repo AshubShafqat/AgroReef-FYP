@@ -5,7 +5,7 @@
 <h1 align="center">AgroReef - Agentic AI Agricultural Advisor</h1>
 
 <p align="center">
-  <em>Pakistan's bilingual, voice first, multi-agent farming assistant — built as an installable PWA.</em>
+  <em>Pakistan's bilingual, voice first, multi-agent farming assistant - built as an installable PWA.</em>
 </p>
 
 <p align="center">
